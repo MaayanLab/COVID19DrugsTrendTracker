@@ -1,1 +1,1 @@
-### Original Tweet IDs (i.e., no retweets, mentions or replies)
+### Original Tweet IDs (i.e., no retweets, mentions, or replies)
